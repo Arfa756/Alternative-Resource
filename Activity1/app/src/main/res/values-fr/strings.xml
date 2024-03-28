@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">androidifi lesson 5</string>
+     <string name="hello_world">Bonjour le monde</string>
+    <string name="text1">je mange du poulet </string>
+    <string name="text2">je mange des cornes</string>
+</resources>
